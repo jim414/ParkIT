@@ -27,3 +27,17 @@ Python Packages Required:
 1. astropy
 2. astropy-iers-data
 3. requests
+
+Parking Examples:
+
+For Flats
+Azimuth = 0.0
+Altitude = 90.0
+
+For Storage Scope Facing North
+Azimuth = 0.0
+Altitude = 1.0
+
+For Storage Scope Facing East
+Azimuth = 90
+Altitude = 1.0
