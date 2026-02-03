@@ -57,3 +57,4 @@ def get_equatorial_coords():
 if __name__ == "__main__":
     get_equatorial_coords()
 
+# the end
