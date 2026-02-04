@@ -9,12 +9,13 @@ There are a few simple requirements to use the script
 Procedure for running the script for ASIAIR.
 
 1. Be sure your scope is in the home position
-1. Connect to the ASIAIR
-3. Select the preview mode on the ASIAIR
-4. Run the script in your python environment
-5. On the ASIAIR tap the coordinates frame on the GOTO widget
-6. Enter the RA and DEC shown in the scripts results
-7. Execute the GOTO
+2. Connect to the ASIAIR
+3. On the Mount Page turn off GOTO Center
+4. Select the preview mode on the ASIAIR
+5. Run the script in your python environment
+6. On the ASIAIR tap the coordinates frame on the GOTO widget
+7. Enter the RA and DEC shown in the scripts results
+8. Execute the GOTO
 
 Notes: 
 
